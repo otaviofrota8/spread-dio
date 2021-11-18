@@ -1,2 +1,2 @@
-# spread-dio
+# DIO - Java Developer 
 Bootcamp Spread
